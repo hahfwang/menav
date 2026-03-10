@@ -2,7 +2,7 @@
 # 建议复制到 config/user/site.yml 并按需调整；用户配置采用“完全替换”策略，将覆盖默认配置。
 
 # 网站基本信息
-title: MeNav
+title: WHR-导航栏
 description: Personal Navigation Station
 author: rbetree
 favicon: menav.svg
@@ -88,24 +88,18 @@ rss:
 # - username：你的 GitHub 用户名（例如 torvalds）
 # - heatmapColor：热力图主题色（不带 #，例如 339af0）
 github:
-  username: 'rbetree' # 你的 GitHub 用户名（例如 torvalds；为空则 projects 页不展示热力图）
+  username: 'hahfwang' # 你的 GitHub 用户名（例如 torvalds；为空则 projects 页不展示热力图）
   heatmapColor: 37b24d
   cacheDir: dev # projects 仓库元信息缓存目录（默认 dev，仓库默认 gitignore）
 
 # 社交媒体链接：显示在侧边栏底部；可按需增删
 social:
   - name: GitHub
-    url: https://github.com
+    url: https://github.com/hahfwang
     icon: fab fa-github
   - name: Telegram
     url: https://t.me
     icon: fab fa-telegram
-  - name: Twitter
-    url: https://twitter.com
-    icon: fab fa-twitter
-  - name: Steam
-    url: https://steam.com
-    icon: fab fa-steam
 
 # 导航配置（顺序第一项即首页/默认打开页）
 navigation:
@@ -123,4 +117,5 @@ navigation:
     id: bookmarks
   - name: 关于
     icon: fas fa-file-alt
+
     id: content
