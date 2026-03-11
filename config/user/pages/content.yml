@@ -5,8 +5,9 @@ subtitle: 项目说明
 
 # 指定使用的模板文件名，现有页面模板可见 templates/pages（不含 .hbs）
 # 内容页模板（templates/pages/content.hbs）
-template: content
+#template: content
 
 # 本期仅支持文件模式：读取本地 markdown 文件
-content:
-  file: content/about.md
+#content:
+
+#  file: content/about.md
