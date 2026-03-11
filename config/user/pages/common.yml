@@ -13,22 +13,13 @@ categories:
     icon: fas fa-star # 分类图标
     sites:
       - name: Linux.do # 站点名称
-        url: https://linux.do/ # http/https URL（favicon 模式将尝试加载站点图标）
-        icon: fab fa-linux # 手动图标：manual 模式使用；favicon 模式下作为回退
-        description: 新的理想型社区 # 站点描述
-      - name: Menav
-        url: https://rbetree.github.io/menav
-        icon: fas fa-star
-        description: 个人导航站
-        faviconUrl: assets/menav.svg
+        url: https://github.com/hahfwang # http/https URL（favicon 模式将尝试加载站点图标）
+        icon: fab fa-github # 手动图标：manual 模式使用；favicon 模式下作为回退
+        description: 我的github # 站点描述
       - name: Google
         url: https://www.google.com
         icon: fab fa-google
         description: 全球最大的搜索引擎
-      - name: GitHub
-        url: https://www.github.com
-        icon: fab fa-github
-        description: 代码托管平台
       - name: Stack Overflow
         url: https://stackoverflow.com
         icon: fab fa-stack-overflow
@@ -41,9 +32,9 @@ categories:
         url: https://www.youtube.com
         icon: fab fa-youtube
         description: 视频分享平台
-      - name: Twitter
-        url: https://twitter.com
-        icon: fab fa-twitter
+      - name: Gemini
+        url: https://gemini.google.com
+        icon: fab fa-gemini
         description: 社交媒体平台
       - name: Reddit
         url: https://www.reddit.com
@@ -56,14 +47,6 @@ categories:
         url: https://www.bilibili.com
         icon: fas fa-play-circle
         description: 视频学习平台
-      - name: 掘金
-        url: https://juejin.cn
-        icon: fas fa-book
-        description: 高质量技术社区
-      - name: LeetCode
-        url: https://leetcode.cn
-        icon: fas fa-code
-        description: 算法刷题平台
   - name: 设计资源
     icon: fas fa-palette
     sites:
@@ -140,4 +123,5 @@ categories:
       - name: Google Cloud
         url: https://cloud.google.com
         icon: fab fa-google
+
         description: 谷歌云平台
