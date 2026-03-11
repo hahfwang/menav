@@ -5,8 +5,8 @@
 title: WHR-导航栏
 description: Personal Navigation Station
 author: rbetree
-favicon: menav.svg
-logo_text: MeNav
+favicon: https://avatars.githubusercontent.com/u/60064174?v=4&size=40
+logo_text: https://avatars.githubusercontent.com/u/60064174?v=4&size=40
 
 icons:
   # 站点卡片图标模式：
@@ -97,9 +97,6 @@ social:
   - name: GitHub
     url: https://github.com/hahfwang
     icon: fab fa-github
-  - name: Telegram
-    url: https://t.me
-    icon: fab fa-telegram
 
 # 导航配置（顺序第一项即首页/默认打开页）
 navigation:
@@ -109,14 +106,8 @@ navigation:
   - name: 项目
     icon: fas fa-project-diagram
     id: projects
-  - name: 文章
-    icon: fas fa-book
-    id: articles
   - name: 书签
     icon: fas fa-bookmark
     id: bookmarks
-  - name: 关于
-    icon: fas fa-file-alt
 
-    id: content
 
