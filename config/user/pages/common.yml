@@ -20,10 +20,6 @@ categories:
         url: https://www.google.com
         icon: fab fa-google
         description: 全球最大的搜索引擎
-      - name: Stack Overflow
-        url: https://stackoverflow.com
-        icon: fab fa-stack-overflow
-        description: 程序员问答社区
       - name: ChatGPT
         url: https://chat.openai.com
         icon: fas fa-robot
@@ -123,6 +119,6 @@ categories:
       - name: Google Cloud
         url: https://cloud.google.com
         icon: fab fa-google
-
         description: 谷歌云平台
+
 
