@@ -12,7 +12,7 @@ categories:
   - name: 置顶
     icon: fas fa-star # 分类图标
     sites:
-      - name: Linux.do # 站点名称
+      - name: github # 站点名称
         url: https://github.com/hahfwang # http/https URL（favicon 模式将尝试加载站点图标）
         icon: fab fa-github # 手动图标：manual 模式使用；favicon 模式下作为回退
         description: 我的github # 站点描述
@@ -125,3 +125,4 @@ categories:
         icon: fab fa-google
 
         description: 谷歌云平台
+
